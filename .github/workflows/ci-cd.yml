@@ -6,8 +6,8 @@ on:
       - main
 
 env:
-  IMAGE_NAME: myapp
-  DOCKER_REPO: yourdockerhubusername
+  IMAGE_NAME: parking_app
+  DOCKER_REPO: vadivelu123
 
 jobs:
 
